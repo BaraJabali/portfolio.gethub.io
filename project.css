@@ -108,6 +108,7 @@ the end of intro
 .projectCard{
     width: 25%;
     background-color: #303841;
+    align-self: center;
 
 }
 #projects>h2{
